@@ -1,2 +1,2 @@
-# TensorFlowStudy
+# TensorFlowStudy Editor
 #Editor files in Edit Branch.
